@@ -1,2 +1,2 @@
-# Hello-wowrld
+# Hello-world
 Fellowing the hello world tutorial
