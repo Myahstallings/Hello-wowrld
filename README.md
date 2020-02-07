@@ -1,2 +1,4 @@
 # Hello-wowrld
-Fellowing the hello world tutorial
+Following the hello world tutorial
+
+i dont really wanna do thins right now
