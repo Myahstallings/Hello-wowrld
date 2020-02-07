@@ -1,2 +1,2 @@
 # Hello-world
-Fellowing the hello world tutorial
+Following the hello world tutorial
